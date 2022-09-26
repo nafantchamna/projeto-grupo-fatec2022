@@ -1,0 +1,63 @@
+
+html{
+    background-color: rgb(237, 233, 233);
+}
+body{
+    background-color: beige;
+    width: 1400px;
+    height: 1000px;
+    margin: 20px auto 20px auto;
+}
+nav{
+    background-color: rgb(89, 201, 121);
+    height: 40px;
+    margin-bottom: 10px;
+}
+article{
+    width: 450px;
+    height: 350px;
+    background-color: rgb(199, 170, 170);
+    margin-left: 20px;
+    float: left;
+}
+section{
+    width: 890px;
+    height: 350px;
+    background-color: aquamarine;
+    float: left;
+    margin-left: 20px;
+}
+.conteiudo{
+    width: 1360px;
+    height: 450px;
+    background-color: chocolate;
+    margin-top: 20px;
+    margin-bottom: 20PX;
+}
+footer{
+    width: 1400px;
+    height: 120px;
+    background-color: rgb(90, 75, 75);
+    clear: both;
+}
+#rodape{
+    font-size: 1.0em;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    padding-top: 50px;
+}
+ul li{
+    display: inline;
+    float: right;
+    padding-top: 10px;
+}
+ul li a{
+    text-transform: uppercase;
+    text-decoration: none;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+ul li a:hover{
+    background-color: beige;
+    color: coral;
+}

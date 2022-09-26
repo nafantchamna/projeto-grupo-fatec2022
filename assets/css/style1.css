@@ -1,0 +1,23 @@
+article{
+    background-color: blueviolet;
+    width: 450px;
+    height: 350px;
+    margin-left: 20px;
+    float: left;
+}
+
+section{
+    width: 890px;
+    height: 350px;
+    background-color: rgb(179, 136, 136);
+    float: left;
+    margin-left: 20px;
+}
+
+.noticia-internacional{
+    width: 1360px;
+    height: 450px;
+    background-color: rgb(130, 168, 126);
+    margin-top: 20px;
+    margin-bottom: 20PX;
+}

@@ -1,0 +1,23 @@
+article{
+    background-color: rgb(226, 43, 64);
+    width: 450px;
+    height: 350px;
+    margin-left: 20px;
+    float: left;
+}
+
+section{
+    width: 890px;
+    height: 350px;
+    background-color: rgb(37, 33, 33);
+    float: left;
+    margin-left: 20px;
+}
+
+.parceirias{
+    width: 1360px;
+    height: 450px;
+    background-color: rgb(130, 168, 126);
+    margin-top: 20px;
+    margin-bottom: 20PX;
+}
